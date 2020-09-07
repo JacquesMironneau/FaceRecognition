@@ -1,6 +1,6 @@
 # Face recognition application
 
-###Summary
+### Summary
 
 This application uses opencv and face_recognition libraries in order to recognize people seen by the webcam. The recognized people are marked and their name appears on the screen.
 
