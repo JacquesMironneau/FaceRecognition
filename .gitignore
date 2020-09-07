@@ -1,0 +1,7 @@
+encodings/
+people/
+sample_app/data.npy
+sample_app/data
+*.jpg
+*.npy
+
